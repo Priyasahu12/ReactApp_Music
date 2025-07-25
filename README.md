@@ -19,7 +19,10 @@ A sleek and modern music player web app built using React. Play, pause, skip, an
 
 ## 📸 Screenshots
 
-> *(Add screenshots of your UI here. You can press `PrtSc` or use `Snipping Tool` and upload)*
+> <img width="1870" height="878" alt="Screenshot 2025-07-25 145757" src="https://github.com/user-attachments/assets/097076b1-02be-4cf6-ab86-2e89322b52cb" />
+<img width="1767" height="808" alt="Screenshot 2025-07-25 145826" src="https://github.com/user-attachments/assets/f7f3efd6-518d-40a8-a45d-aefa277efb57" />
+
+
 
 ## 📦 Installation & Setup
 
